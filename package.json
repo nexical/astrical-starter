@@ -9,8 +9,5 @@
     "workspaces": [
         "src/core",
         "src/modules/*"
-    ],
-    "devDependencies": {
-        "@astrical/cli": "^0.4.1"
-    }
+    ]
 }
